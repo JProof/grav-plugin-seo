@@ -1,12 +1,12 @@
 name: "SEO"
 version: "2.3.5"
-description: "Manage your site’s meta tags for display in search engine results or social media networks. Includes an easy-to-use live preview feature."
+description: "Manage your site’s meta tags for display in search engine results or social media networks. Includes an easy-to-use live preview feature. JProof Fork from https://github.com/paulmassen/grav-plugin-seo"
 icon: "google"
 testing: true
 author:
-  name: "Paul Massendari"
+  name: "Paul Massendari / Jybrid"
   email: "paul@massendari.com"
-homepage: "https://github.com/paulmassen/grav-plugin-seo"
+homepage: "https://github.com/JProof/grav-plugin-seo"
 keywords: ["seo", "meta", "microdata", "schema", "plugin"]
 bugs: "https://github.com/paulmassen/grav-plugin-seo/issues"
 license: "MIT/GPL"
