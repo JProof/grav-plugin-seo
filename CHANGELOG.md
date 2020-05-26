@@ -1,3 +1,9 @@
+# v2.3.7
+## 05/26/2020
+1. [](#fix)
+    * Replacer fixed
+    * Bad-Word-Filter in PHP-Code
+    * Todo: configurable Filter
 # v2.3.6
 ## 09/14/2018
 1. [](#new)
